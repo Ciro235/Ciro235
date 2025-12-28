@@ -1,5 +1,5 @@
 # Darío Seguí Camacho  
-**Full Stack Developer | Automation Engineer | Problem Solver**
+**Developer | Automation Engineer | Problem Solver**
 
 ---
 
