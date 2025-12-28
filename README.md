@@ -87,7 +87,7 @@ I'm actively expanding my web development skills with:
 
 📧 **Email:** [dariosc235@gmail.com](mailto:dariosc235@gmail.com)  
 💻 **GitHub:** *https://github.com/Ciro235*  
-💼 **LinkedIn:** *https://www.linkedin.com/in/dar%C3%ADo-segu%C3%AD-camacho*  
+💼 **LinkedIn:** *linkedin.com/in/darío-seguí-camacho*  
 🌍 **Languages:** English, Spanish, German, Italian  
 
 ---
