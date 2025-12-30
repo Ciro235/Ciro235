@@ -18,6 +18,7 @@ I'm an engineer with a strong foundation in automation and control systems, now 
 ### **Backend & Automation**
 - **Python** – Backend development, scripting, and automation
 - **C++** – Strong foundation in object-oriented programming and algorithms
+- **Ladder** – Quick-eye for understanding PLC
 
 ### **Tools & Platforms**
 - **LabVIEW** – Visual programming and system design
